@@ -2,9 +2,12 @@ body {
     background: pink;
 }
 img {
-    height: 250px
+    height: 250px;
+    
        
 }
 .about {
-    text-align: center;
+    text-align: left;
+    width: 420px;
+    
 }
